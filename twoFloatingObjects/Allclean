@@ -1,0 +1,6 @@
+rm -r 0.* [1-9]*
+rm log*
+rm -r postProcessing
+rm *.foam
+rm 0/alpha.water
+rm -r dynamicCode
